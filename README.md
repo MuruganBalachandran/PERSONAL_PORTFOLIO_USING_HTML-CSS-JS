@@ -10,7 +10,7 @@ This is my personal portfolio website, designed to showcase my skills, experienc
 ## Overview
 The portfolio includes the following sections:
 - **About**: A brief introduction about me.
-- **Resume**: This section covers my skills, certifications, and publicatios.
+- **Resume**: This section covers my skills, certifications, and publications.
 - **Portfolio**: Showcases the projects I've worked on.
 - **Experiences**: Details of my professional experiences.
 - **Contact**: A form for getting in touch with me.
